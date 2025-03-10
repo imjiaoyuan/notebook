@@ -1,0 +1,8 @@
+*/**/cache*
+*/**/Cache*
+*/**/*Cache
+*/**/*history
+*/**/*History
+*/**/luna_pinyin.userdb
+*/**/rime_ice.userdb
+*/**/*log*

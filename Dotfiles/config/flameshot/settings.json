@@ -1,0 +1,22 @@
+{
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.enabled": false,
+    "workbench.colorTheme": "GitHub Light",
+    "workbench.iconTheme": "material-icon-theme",
+    "r.rterm.linux": "/usr/bin/R",
+    "r.rterm.option": [
+        "--no-site-file"
+    ],
+    "r.bracketedPaste": true,
+    "r.plot.useHttpgd": true,
+    "editor.fontFamily": "'Consolas', 'monospace', monospace",
+    "editor.fontSize": 15,
+    "r.lsp.diagnostics": false,
+    "terminal.integrated.fontFamily": "'Consolas'",
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "update.showReleaseNotes": false,
+    "marscode.chatLanguage": "cn"
+}

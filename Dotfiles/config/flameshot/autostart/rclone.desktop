@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+NoDisplay=true
+Terminal=false
+Name=dianDrive
+Exec=/usr/bin/rclone mount onedrive:/ ~/OneDrive --vfs-cache-mode writes
+Icon=onedrive
+Comment=Auto mount OneDrive to local.
+Categories=Network;

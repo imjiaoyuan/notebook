@@ -1,0 +1,16 @@
+bio-tbtools
+goodix-gt7868q-dkms
+google-chrome
+lightdm-settings
+linuxqq-nt-bwrap
+mambaforge
+matcha-gtk-theme
+ttf-wps-fonts
+udunits
+vimix-gtk-themes
+virtualbox-bin
+visual-studio-code-bin
+wechat-universal-bwrap
+windows-10-cursor
+wps-office-cn
+wps-office-mui-zh-cn
