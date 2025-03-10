@@ -27,7 +27,6 @@
     - [沈从文致张兆和情书](Luminote\沈从文致张兆和情书.md)
     - [王维拉黑李白始末](Luminote\王维拉黑李白始末.md)
 - Misc/
-    - [Deepseek给出的仓库名](Misc\Deepseek给出的仓库名.md)
     - [Prompt](Misc\Prompt.md)
 - Retest/
     - [导师](Retest\导师.md)
