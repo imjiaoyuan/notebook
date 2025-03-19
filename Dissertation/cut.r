@@ -3,8 +3,8 @@ library(raster)
 library(rgdal)
 
 # 设定文件夹路径和shapefile路径
-tif_folder <- "/home/yuanj/work/dissertation"
-shp_file <- "/home/yuanj/work/dissertation/huaxi3.0.shp"
+tif_folder <- "/home/yuanj/work/Dissertation"
+shp_file <- "/home/yuanj/work/Dissertation/huaxi3.0.shp"
 
 # 读取掩膜Shapefile
 mask_shapefile <- readOGR(shp_file)
