@@ -2,7 +2,6 @@
 
 - **CV/**
   - [CV.md](CV/CV.md)
-  - [md_to_pdf.py](CV/md_to_pdf.py)
 - **manuscripts/**
   - **Biochemistry/**
     - [核酸化学.md](manuscripts/Biochemistry/核酸化学.md)
@@ -26,7 +25,6 @@
     - [分子生物学研究方法.md](manuscripts/MolecularBiology/分子生物学研究方法.md)
     - [染色体与DNA.md](manuscripts/MolecularBiology/染色体与DNA.md)
 - **write/**
-  - [TOWXL.md](write/TOWXL.md)
   - [一块红布.md](write/一块红布.md)
   - [一种美味.md](write/一种美味.md)
   - [一谢天地.md](write/一谢天地.md)
