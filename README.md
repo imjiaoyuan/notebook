@@ -1,0 +1,41 @@
+# Repository Directory Structure
+
+- **CV/**
+  - [CV.md](CV/CV.md)
+  - [md_to_pdf.py](CV/md_to_pdf.py)
+- **manuscripts/**
+  - **Biochemistry/**
+    - [核酸化学.md](manuscripts/Biochemistry/核酸化学.md)
+    - [生化实验.md](manuscripts/Biochemistry/生化实验.md)
+    - [糖生物学.md](manuscripts/Biochemistry/糖生物学.md)
+    - [脂质和生物膜.md](manuscripts/Biochemistry/脂质和生物膜.md)
+    - [蛋白质与氨基酸.md](manuscripts/Biochemistry/蛋白质与氨基酸.md)
+    - [蛋白质结构与功能.md](manuscripts/Biochemistry/蛋白质结构与功能.md)
+  - **Botany/**
+    - [植物与生态因子的关系.md](manuscripts/Botany/植物与生态因子的关系.md)
+    - [植物分类.md](manuscripts/Botany/植物分类.md)
+    - [植物的繁殖.md](manuscripts/Botany/植物的繁殖.md)
+    - [植物结构.md](manuscripts/Botany/植物结构.md)
+  - **GeneralBiology/**
+    - [人体功能系统.md](manuscripts/GeneralBiology/人体功能系统.md)
+    - [动物发育.md](manuscripts/GeneralBiology/动物发育.md)
+    - [细胞.md](manuscripts/GeneralBiology/细胞.md)
+  - **MolecularBiology/**
+    - [RNA转录与翻译.md](manuscripts/MolecularBiology/RNA转录与翻译.md)
+    - [分子总结.md](manuscripts/MolecularBiology/分子总结.md)
+    - [分子生物学研究方法.md](manuscripts/MolecularBiology/分子生物学研究方法.md)
+    - [染色体与DNA.md](manuscripts/MolecularBiology/染色体与DNA.md)
+- **write/**
+  - [TOWXL.md](write/TOWXL.md)
+  - [一块红布.md](write/一块红布.md)
+  - [一种美味.md](write/一种美味.md)
+  - [一谢天地.md](write/一谢天地.md)
+  - [人生四苦西游记.md](write/人生四苦西游记.md)
+  - [你还在我身旁.md](write/你还在我身旁.md)
+  - [午夜的汽笛声.md](write/午夜的汽笛声.md)
+  - [孙悟空的两次落泪.md](write/孙悟空的两次落泪.md)
+  - [新疆大盘鸡的记忆.md](write/新疆大盘鸡的记忆.md)
+  - [星夜集.md](write/星夜集.md)
+  - [春夜奇遇.md](write/春夜奇遇.md)
+  - [沈从文致张兆和情书.md](write/沈从文致张兆和情书.md)
+  - [王维拉黑李白始末.md](write/王维拉黑李白始末.md)

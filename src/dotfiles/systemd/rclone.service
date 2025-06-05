@@ -1,0 +1,14 @@
+[Unit]
+Description=rclone
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/usr/bin/rclone mount onedrive:/ /home/yuanj/OneDrive --vfs-cache-mode writes
+Restart=on-failure
+RestartSec=3
+RestartPreventExitStatus=3
+User=yuanj
+
+[Install]
+WantedBy=multi-user.target
